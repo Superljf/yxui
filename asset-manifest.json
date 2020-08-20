@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lizj-core/yxui/main.css",
+    "main.js": "/lizj-core/yxui/main.96790123f658d94a446a.bundle.js",
+    "main.css.map": "/lizj-core/yxui/main.css.map",
+    "main.js.map": "/lizj-core/yxui/main.96790123f658d94a446a.bundle.js.map",
+    "runtime~main.js": "/lizj-core/yxui/runtime~main.96790123f658d94a446a.bundle.js",
+    "runtime~main.js.map": "/lizj-core/yxui/runtime~main.96790123f658d94a446a.bundle.js.map",
+    "vendors~main.css": "/lizj-core/yxui/vendors~main.css",
+    "vendors~main.js": "/lizj-core/yxui/vendors~main.96790123f658d94a446a.bundle.js",
+    "vendors~main.css.map": "/lizj-core/yxui/vendors~main.css.map",
+    "vendors~main.js.map": "/lizj-core/yxui/vendors~main.96790123f658d94a446a.bundle.js.map",
+    "iframe.html": "/lizj-core/yxui/iframe.html",
+    "precache-manifest.5a098e64210e059021b1b7b1df52958a.js": "/lizj-core/yxui/precache-manifest.5a098e64210e059021b1b7b1df52958a.js",
+    "service-worker.js": "/lizj-core/yxui/service-worker.js"
+  },
+  "entrypoints": [
+    "runtime~main.96790123f658d94a446a.bundle.js",
+    "vendors~main.css",
+    "vendors~main.96790123f658d94a446a.bundle.js",
+    "main.css",
+    "main.96790123f658d94a446a.bundle.js"
+  ]
+}
